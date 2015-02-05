@@ -6,13 +6,13 @@ Place **.icls** files inside `%USERPROFILE%\.WebStorm{version}\config\colors`
 
 ### 1. Delkos
 
-This is a dark theme based on the Delkos Dark Theme for Brackets.
+This is a dark theme based on the **Delkos Dark Theme** for Brackets.
 
-![screenshot](https://github.com/mb2o/Themes/blob/master/delkos.jpg)
+![screenshot](https://github.com/mb2o/Themes/blob/master/webstorm/dark/delkos.jpg)
 
 ### 2. Treeass
 
 This is a light theme with my own preferences.
 
-![screenshot](https://github.com/mb2o/Themes/blob/master/treeass.jpg)
+![screenshot](https://github.com/mb2o/Themes/blob/master/webstorm/light/treeass.jpg)
 
