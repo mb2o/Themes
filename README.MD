@@ -16,3 +16,15 @@ This is a light theme with my own preferences.
 
 ![screenshot](https://github.com/mb2o/Themes/blob/master/webstorm/light/treeass.jpg)
 
+### 3. Visual Studio 2013
+
+This is a light Visual Studio 2013 theme.
+
+![screenshot](https://github.com/mb2o/Themes/blob/master/webstorm/light/visual-studio-2013.jpg)
+
+### 4. Treeass
+
+This is a light Netbeans 8 theme.
+
+![screenshot](https://github.com/mb2o/Themes/blob/master/webstorm/light/netbeans.jpg)
+
