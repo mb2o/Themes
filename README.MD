@@ -22,7 +22,7 @@ This is a light Visual Studio 2013 theme.
 
 ![screenshot](https://github.com/mb2o/Themes/blob/master/webstorm/light/visual-studio-2013.jpg)
 
-### 4. Treeass
+### 4. Netbeans
 
 This is a light Netbeans 8 theme.
 
