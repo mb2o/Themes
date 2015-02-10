@@ -1,13 +1,6 @@
 <scheme name="delkos" version="124" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.3" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="14" />
@@ -17,6 +10,7 @@
     <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="ae0ff" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -40,7 +34,7 @@
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="313335" />
-    <option name="INDENT_GUIDE" value="ffa2ea" />
+    <option name="INDENT_GUIDE" value="222222" />
     <option name="LINE_NUMBERS_COLOR" value="666666" />
     <option name="METHOD_SEPARATORS_COLOR" value="4d4d4d" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
@@ -368,22 +362,21 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="629755" />
+        <option name="FOREGROUND" value="95927f" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="526d4a" />
+        <option name="FOREGROUND" value="bdbaa4" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="526d4a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="77b767" />
+        <option name="FOREGROUND" value="95927f" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
